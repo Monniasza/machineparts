@@ -1,0 +1,12 @@
+{
+    "fileFormatVersion": "1",
+    "parameterSets": {
+        "Nowy zestaw 1": {
+            "element_width1": "24",
+            "hinge_thickness": "16",
+            "screws_per_segment1": "1",
+            "segment_count": "5",
+            "tolerance": "0.29999999999999999"
+        }
+    }
+}
